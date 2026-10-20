@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sdispater/pastel/commit/760a8e52dd989dfd47c72e82776657c530c8c1b0",
       "git:hexsha": "760a8e52dd989dfd47c72e82776657c530c8c1b0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.2.1"
     },
     {

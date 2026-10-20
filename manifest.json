@@ -28,6 +28,9 @@
         "blob/40a96afc6ff09d58a702b76e3f7dd412fe975e26.nq.gz",
         "blob/2f07a56fb90f8cb396a5d6e084eddbe77bdd4f99.nq.gz",
         "blob/7a6e0f2d33d856c85149c5f66417c54a1a8412a7.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/760a8e52dd989dfd47c72e82776657c530c8c1b0/chunk-001.nq.gz"
       ]
     }
   ],
