@@ -1,0 +1,11 @@
+{
+  "org": "sdispater",
+  "repo": "pastel",
+  "versions": [
+    {
+      "commit": "760a8e52dd989dfd47c72e82776657c530c8c1b0",
+      "tag": "0.2.1",
+      "parsed_at": "2026-10-20T21:55:11.083253+00:00"
+    }
+  ]
+}
