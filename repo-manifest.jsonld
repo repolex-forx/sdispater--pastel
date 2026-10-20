@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/sdispater/pastel/commit/760a8e52dd989dfd47c72e82776657c530c8c1b0",
       "git:hexsha": "760a8e52dd989dfd47c72e82776657c530c8c1b0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.2.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.2.1",
+      "repolex:parsedAt": "2026-10-20T21:55:11.082814+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sdispater/pastel/commit/9f19ead873dcec9529906a787556834df17812ae",
